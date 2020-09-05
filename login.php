@@ -5,6 +5,8 @@
 	<link rel="stylesheet" type="text/css" href="css/client/content.css" media="all" />
 	<link rel="stylesheet" type="text/css" href="css/client/footer.css" media="all" />
 	<script src="https://kit.fontawesome.com/4ca587dd72.js" crossorigin="anonymous"></script>
+	 <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/logo/shoesvn.jpg">
 	<title>Đồ án 1: SHOESVN</title>	
 </head>
 <body>

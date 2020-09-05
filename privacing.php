@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/client/header.css" media="all" />
 	<link rel="stylesheet" type="text/css" href="css/client/content.css" media="all" />
 	<link rel="stylesheet" type="text/css" href="css/client/footer.css" media="all" />
+	<link rel="shortcut icon" type="image/x-icon" href="images/logo/shoesvn.jpg">
 	<script src="https://kit.fontawesome.com/4ca587dd72.js" crossorigin="anonymous"></script>
 </head>
 <body>

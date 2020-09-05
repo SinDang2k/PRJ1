@@ -1,6 +1,6 @@
 <div class="header-bottom">
 	<div class="wrap">
-		<a class="color1" href="http://project.com/"><span>Trang chủ</span></a>
+		<a class="color1" href="index.php"><span>Trang chủ</span></a>
 		<a class="color2" href="all_product.php"><span>Tất cả giày thể thao</span></a>
 		<?php 
 			include 'db/connect.php';

@@ -16,7 +16,7 @@
 <div class="header-middle">
 	<div class="wrap">
 		<div class="logo">
-			<a href="http://project.com/"><img src="images/logo/shoesvn.jpg" width="105px" height="70px" alt=""/></a>
+			<a href="index.php"><img src="images/logo/shoesvn.jpg" width="105px" height="70px" alt=""/></a>
 	    </div>
 		
         <form class="search" action="search.php" method="GET">                  	 

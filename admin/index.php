@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="../css/admin/header.css">
 	<link rel="stylesheet" type="text/css" href="../css/admin/content.css">
 	<link rel="stylesheet" type="text/css" href="../css/admin/menu-bar.css">
+	<link rel="shortcut icon" type="image/x-icon" href="../images/logo/shoesvn.jpg">
 	<script src="https://kit.fontawesome.com/4ca587dd72.js" crossorigin="anonymous"></script>
 	<script src="../resources/ckeditor/ckeditor.js"></script>
 </head>
